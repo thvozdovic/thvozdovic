@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://i.imgur.com/so3hlAd.png =250x250 )
-
+<img src="https://i.imgur.com/so3hlAd.png" width="200" height="200">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
