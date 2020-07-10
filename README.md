@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on Megumaid Bot (and other private projects).
 - 🌱 I’m currently learning Javascript, HTML, CSS.
-- 📫 How to reach me: <a src="https://reddit.com/u/Menox_">Reddit</a> Discord : **Menox#9298**
+- 📫 How to reach me: <a href="https://reddit.com/u/Menox_">Reddit</a> Discord : <b>Menox#9298</b>
