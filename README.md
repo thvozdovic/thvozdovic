@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://i.imgur.com/so3hlAd.png)
+![](https://i.imgur.com/so3hlAd.png =250x250 )
 
 
 - 🔭 I’m currently working on ...
