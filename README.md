@@ -4,6 +4,6 @@
 
 <h3>Hi there 👋</h3>
 
-- 🔭 I’m currently working on Megumaid Bot (and other private projects).
+- 🔭 I’m currently working on <a href="https://megumaid.app">Megumaid bot</a> (and other private projects).
 - 🌱 I’m currently learning Javascript, HTML, CSS.
 - 📫 How to reach me: <a href="https://reddit.com/u/Menox_">Reddit</a> Discord : <b>Menox#9298</b>
