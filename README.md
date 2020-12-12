@@ -6,6 +6,5 @@ box-shadow: 10px 10px 56px -24px rgba(0,0,0,0.75);" src="https://i.imgur.com/so3
 
 <h3>Hi there 👋</h3>
 
-- 🔭 I’m currently working on <a href="https://megumaid.app">Megumaid bot</a> (and other private projects).
-- 🌱 I’m currently learning Javascript, HTML, CSS.
+- 🌱 I’m currently learning Javascript/Typescript, HTML, CSS.
 - 📫 How to reach me: <a href="https://reddit.com/u/Menox_">Reddit</a> Discord : <b>Menox#9298</b>
